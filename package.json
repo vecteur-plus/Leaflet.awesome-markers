@@ -1,0 +1,12 @@
+{
+  "name": "Leaflet.awesome-markers",
+  "version": "2.0.2",
+  "description": "Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons",
+  "dependencies": {
+    "leaflet": "~0.7.3"
+  },
+  "main": [
+    "dist/leaflet.awesome-markers.css",
+    "dist/leaflet.awesome-markers.js"
+  ]
+}
