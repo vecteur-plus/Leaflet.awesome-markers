@@ -5,8 +5,5 @@
   "dependencies": {
     "leaflet": "~0.7.3"
   },
-  "main": [
-    "dist/leaflet.awesome-markers.css",
-    "dist/leaflet.awesome-markers.js"
-  ]
+  "main": "dist/leaflet.awesome-markers.js"
 }
